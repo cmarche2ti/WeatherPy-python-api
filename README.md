@@ -1,7 +1,9 @@
-# api-homework
+# Weather-Python-APIs
 
-The three things that this assignment showed me about how weather changes as you approach the equator are:
+This project uses Python, Pandas, and Requests to gather data from 1500 randomly selected cities and returns the weather from that city using the Openweathermap API.  After the data is gathered, Matplotlib is used to create visualizations that show the effect of changing a cities latitude on the temperature, humidity, wind speed and cloudiness in that city.
 
-1.  It does get warmer as you approach the equator. 
-2.  The hottest places seem to be just north of the equator. 
+The three insights that the data showed about how weather changes as you approach the equator are:
+
+1.  Climate gets warmer as you approach the equator. 
+2.  The hottest cities are just north of the equator. 
 2.  Humidity, wind spead and cloudiness are not correlated with latitude.
